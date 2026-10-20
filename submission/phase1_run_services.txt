@@ -1,0 +1,13 @@
+✔
+SERVICE: echo
+REGION: us-central1
+URL: https://echo-1085360423627.us-central1.run.app
+LAST DEPLOYED BY: service-1085360423627@gcf-admin-robot.iam.gserviceaccount.com
+LAST DEPLOYED AT: 2026-10-20T11:59:27.782327Z
+
+✔
+SERVICE: echo-bot
+REGION: us-central1
+URL: https://echo-bot-1085360423627.us-central1.run.app
+LAST DEPLOYED BY: carlo.sorrentino@eurecom.fr
+LAST DEPLOYED AT: 2026-10-20T11:26:55.839896Z
