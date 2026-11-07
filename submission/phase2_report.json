@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 449.328,
+    "vectorized_ms": 1.014,
+    "speedup": 443.12
+  },
+  "threads": {
+    "1": 2252.159,
+    "2": 2084.873,
+    "4": 2466.297,
+    "8": 2159.728
+  },
+  "devices": {
+    "cpu_ms": 432132.8,
+    "gpu_ms": 14479.9
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4135,
+    "param_count": 4935680
+  },
+  "sample": "\n\nSecondun:\nI lend say fear a vilourn that is, heart here as while\nattering Vinnow bear lows to by at resolude: but\nthe beauty gots his name of let the kins, and be heir natures.\n\nMIRCUS:\nObe one up yo",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/eurecomgpt-512111-eurecomgpt/model.safetensors"
+  }
+}
